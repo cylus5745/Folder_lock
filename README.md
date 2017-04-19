@@ -14,5 +14,5 @@ Steps:
 6. Run Locker.bat again. It will promt you if you want to lock the folder. Type in Y to lock your folder.
    It protects your folder and hides it. (It can't be seen from the 'Show hidden files' option also)
 
-----To open your folder again---
+<P>----To open your folder again---</P>
 7. Run the locker.bat file, enter your password and the file appears again.
